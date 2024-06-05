@@ -1,0 +1,6 @@
+@FiltroTrujillo_HostAddress = http://localhost:5192
+
+GET {{FiltroTrujillo_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
