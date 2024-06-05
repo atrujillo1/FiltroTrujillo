@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FiltroTrujillo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8885e2c462bfcace79c9c4580affaba9c22e870d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9cbb479d33b38fecc8cf264e8106aca406c216c1")]
 [assembly: System.Reflection.AssemblyProductAttribute("FiltroTrujillo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FiltroTrujillo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

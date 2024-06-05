@@ -9,11 +9,11 @@ using Microsoft.Extensions.Logging;
 namespace FiltroTrujillo.Controllers.Courses
 {
     [Route("[controller]")]
-    public class CoursesDeleteController : Controller
+    public class CoursesDetailsController : Controller
     {
-        private readonly ILogger<CoursesDeleteController> _logger;
+        private readonly ILogger<CoursesDetailsController> _logger;
 
-        public CoursesDeleteController(ILogger<CoursesDeleteController> logger)
+        public CoursesDetailsController(ILogger<CoursesDetailsController> logger)
         {
             _logger = logger;
         }
